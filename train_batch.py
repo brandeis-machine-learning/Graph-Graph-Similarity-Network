@@ -1,6 +1,6 @@
 import numpy as np
-from myUtils.models import G2G_model, Discriminator
-from myUtils.datasets import Data_Loader
+from models import G2G_model, Discriminator
+from datasets import Data_Loader
 import os
 import torch
 import pandas as pd
